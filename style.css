@@ -10822,13 +10822,13 @@ textarea.form-control-lg {
   body {
     position: relative;
   }
-  nav {
-    background-color: #E5E5E5;
+  body nav {
+    background-color: #ffffff;
     height: 168px;
     width: 100%;
     position: relative;
   }
-  nav .logo {
+  body nav .logo {
     background-color: #475467;
     position: absolute;
     width: 70px;
@@ -10836,12 +10836,12 @@ textarea.form-control-lg {
     left: 20px;
     top: 40px;
   }
-  nav .breadcrumb {
+  body nav .breadcrumb {
     position: absolute;
     right: 10px;
     bottom: 10px;
   }
-  nav .breadcrumb a {
+  body nav .breadcrumb a {
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
@@ -10850,36 +10850,36 @@ textarea.form-control-lg {
     text-decoration-line: none;
     color: #000000;
   }
-  nav .btn-group {
+  body nav .btn-group {
     width: 248px;
     height: 48px;
     position: absolute;
     top: 10px;
     right: 10px;
   }
-  nav .btn-group .btn1 {
+  body nav .btn-group .btn1 {
     border-right: #E5E5E5 1px solid;
   }
-  nav .btn-group .btn-primary {
+  body nav .btn-group .btn-primary {
     font-weight: 600;
     color: #E5E5E5;
     border-color: #475467;
     background-color: #475467;
   }
-  nav .btn-group .btn-primary:active {
+  body nav .btn-group .btn-primary:active {
     background-color: rgb(255, 251, 178);
     color: #475467;
   }
-  nav .phone {
+  body nav .phone {
     position: absolute;
     margin-top: 60px;
     right: 20px;
   }
-  nav .phone img {
+  body nav .phone img {
     width: 17.69px;
     height: 30px;
   }
-  nav .phone p {
+  body nav .phone p {
     display: inline-block;
     width: 176px;
     height: 30px;
@@ -10889,10 +10889,10 @@ textarea.form-control-lg {
     letter-spacing: 0.255em;
     color: #000000;
   }
-  .carousel {
+  body .carousel {
     height: 40vh;
   }
-  .carousel .carousel-item .rwdimg {
+  body .carousel .carousel-item .rwdimg {
     display: block;
     width: 100%;
     height: 0;
@@ -10902,13 +10902,13 @@ textarea.form-control-lg {
     background-repeat: no-repeat;
     background-size: cover;
   }
-  footer {
+  body footer {
     position: absolute;
     width: 100%;
     height: 373px;
     background: #BEC0CD;
   }
-  footer .buttonFrame {
+  body footer .buttonFrame {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -10916,7 +10916,7 @@ textarea.form-control-lg {
     margin: auto;
     margin-top: 50px;
   }
-  footer .buttonFrame .button3, footer .buttonFrame .button2, footer .buttonFrame .button1 {
+  body footer .buttonFrame .button3, body footer .buttonFrame .button2, body footer .buttonFrame .button1 {
     background-color: #475467;
     box-sizing: border-box;
     text-align: center;
@@ -10931,12 +10931,12 @@ textarea.form-control-lg {
     border-radius: 8px;
     transition: 0.5s;
   }
-  footer .buttonFrame .button3:hover, footer .buttonFrame .button2:hover, footer .buttonFrame .button1:hover {
+  body footer .buttonFrame .button3:hover, body footer .buttonFrame .button2:hover, body footer .buttonFrame .button1:hover {
     background-color: rgb(255, 251, 178);
     border: none;
     color: #000000;
   }
-  footer .buttonFrame .button3:active, footer .buttonFrame .button2:active, footer .buttonFrame .button1:active {
+  body footer .buttonFrame .button3:active, body footer .buttonFrame .button2:active, body footer .buttonFrame .button1:active {
     scale: 0.95;
   }
 }
@@ -10944,13 +10944,13 @@ textarea.form-control-lg {
   body {
     position: relative;
   }
-  nav {
-    background-color: #E5E5E5;
+  body nav {
+    background-color: #ffffff;
     height: 168px;
     width: 100%;
     position: relative;
   }
-  nav .logo {
+  body nav .logo {
     background-color: #475467;
     position: absolute;
     width: 98px;
@@ -10958,12 +10958,12 @@ textarea.form-control-lg {
     left: 82px;
     top: 34px;
   }
-  nav .breadcrumb {
+  body nav .breadcrumb {
     position: absolute;
     left: 335px;
     top: 93px;
   }
-  nav .breadcrumb a {
+  body nav .breadcrumb a {
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
@@ -10972,36 +10972,36 @@ textarea.form-control-lg {
     text-decoration-line: none;
     color: #000000;
   }
-  nav .btn-group {
+  body nav .btn-group {
     width: 248px;
     height: 48px;
     position: absolute;
     top: 71px;
     right: 80px;
   }
-  nav .btn-group .btn1 {
+  body nav .btn-group .btn1 {
     border-right: #E5E5E5 1px solid;
   }
-  nav .btn-group .btn-primary {
+  body nav .btn-group .btn-primary {
     font-weight: 600;
     color: #E5E5E5;
     border-color: #475467;
     background-color: #475467;
   }
-  nav .btn-group .btn-primary:active {
+  body nav .btn-group .btn-primary:active {
     background-color: rgb(255, 251, 178);
     color: #475467;
   }
-  nav .phone {
+  body nav .phone {
     position: absolute;
     margin-top: 88px;
     right: 341px;
   }
-  nav .phone img {
+  body nav .phone img {
     width: 17.69px;
     height: 30px;
   }
-  nav .phone p {
+  body nav .phone p {
     display: inline-block;
     width: 176px;
     height: 30px;
@@ -11011,10 +11011,10 @@ textarea.form-control-lg {
     letter-spacing: 0.255em;
     color: #000000;
   }
-  .carousel-inner {
+  body .carousel-inner {
     height: 481px;
   }
-  .carousel-inner .carousel-item .rwdimg {
+  body .carousel-inner .carousel-item .rwdimg {
     display: block;
     height: 481px;
     width: 100%;
@@ -11022,20 +11022,20 @@ textarea.form-control-lg {
     background-repeat: no-repeat;
     background-size: cover;
   }
-  footer {
+  body footer {
     position: absolute;
     width: 100%;
     height: 373px;
     background: #BEC0CD;
   }
-  footer .buttonFrame {
+  body footer .buttonFrame {
     display: flex;
     justify-content: space-between;
     width: 70%;
     margin: auto;
     margin-top: 58px;
   }
-  footer .buttonFrame .button3, footer .buttonFrame .button2, footer .buttonFrame .button1 {
+  body footer .buttonFrame .button3, body footer .buttonFrame .button2, body footer .buttonFrame .button1 {
     background-color: #475467;
     box-sizing: border-box;
     text-align: center;
@@ -11049,12 +11049,12 @@ textarea.form-control-lg {
     border-radius: 8px;
     transition: 0.5s;
   }
-  footer .buttonFrame .button3:hover, footer .buttonFrame .button2:hover, footer .buttonFrame .button1:hover {
+  body footer .buttonFrame .button3:hover, body footer .buttonFrame .button2:hover, body footer .buttonFrame .button1:hover {
     background-color: rgb(255, 251, 178);
     border: none;
     color: #000000;
   }
-  footer .buttonFrame .button3:active, footer .buttonFrame .button2:active, footer .buttonFrame .button1:active {
+  body footer .buttonFrame .button3:active, body footer .buttonFrame .button2:active, body footer .buttonFrame .button1:active {
     scale: 0.95;
   }
 }/*# sourceMappingURL=style.css.map */
